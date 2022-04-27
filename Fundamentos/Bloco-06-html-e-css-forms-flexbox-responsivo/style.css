@@ -1,0 +1,86 @@
+body {
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+header h1 {
+    background-color: #036b52;
+    width: 640px;
+    text-align: center;
+    display: inline-block;
+    padding: 30px;
+    color: white;
+    margin-bottom: 2px;
+}
+
+#primeira-parte {
+    background-color: #c8cecd;
+    padding: 20px;
+    width: 660px;
+}
+
+#segunda-parte {
+    background-color: #a8a7aa;
+    padding: 20px;
+    width: 660px;
+}
+
+#terceira-parte {
+    background-color: #c8cecd;
+    padding: 20px;
+    width: 660px;
+}
+
+#quarta-parte {
+    background-color: #a8a7aa;
+    padding: 20px;
+    width: 660px;
+}
+
+#quinta-parte {
+    background-color: #c8cecd;
+    padding: 20px;
+    width: 660px;
+}
+
+#sexta-parte {
+    background-color:#a8a7aa;
+    padding: 20px;
+    width: 660px;
+}
+
+#setima-parte {
+    background-color: #c8cecd;
+    padding: 10px;
+    display: block;
+    width: 680px;
+    text-align: center;
+}
+
+#nome {
+    padding: 5px;
+    width: 250px;
+    display: block;
+}
+
+#email {
+    padding: 5px;
+    width: 250px;
+    display: block;
+}
+
+.textos {
+    font-weight: bolder;
+}
+
+#enviar {
+    padding: 10px;
+    margin-right: 20px;
+}
+
+#apagar {
+    padding: 10px;
+}
+
+
