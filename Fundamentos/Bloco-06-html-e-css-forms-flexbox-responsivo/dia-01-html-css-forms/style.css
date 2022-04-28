@@ -6,7 +6,7 @@ body {
 
 header h1 {
     background-color: #036b52;
-    width: 640px;
+    width: 660px;
     text-align: center;
     display: inline-block;
     padding: 30px;
@@ -46,15 +46,16 @@ header h1 {
 
 #sexta-parte {
     background-color:#a8a7aa;
-    padding: 20px;
+    padding: 10px;
     width: 660px;
+    font-size: 14px;
 }
 
 #setima-parte {
     background-color: #c8cecd;
-    padding: 10px;
+    padding-bottom: 20px;
     display: block;
-    width: 680px;
+    width: 660px;
     text-align: center;
 }
 
